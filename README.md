@@ -1,6 +1,6 @@
-# DASStruction
+# Brick Breaker
 
-DASStruction is a termial-based replica of the popular arcade game brickbreaker.  
+This is a termial-based replica of the popular arcade game brickbreaker.  
 It involves using a ball to break to break an arrangement of bricks with the use of a movable paddle to direct the ball and prevent it from falling off the screen (which results in the loss of a life, explaines later).
 
 ---
